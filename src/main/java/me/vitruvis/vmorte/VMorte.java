@@ -3,8 +3,6 @@ package me.vitruvis.vmorte;
 import me.vitruvis.vmorte.commands.CommandVMorte;
 import net.kyori.adventure.text.minimessage.MiniMessage;
 import nl.marido.deluxecombat.api.DeluxeCombatAPI;
-import org.bukkit.command.CommandExecutor;
-import org.bukkit.command.TabExecutor;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.entity.Player;
