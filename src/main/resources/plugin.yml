@@ -1,0 +1,10 @@
+name: vMorte
+version: '${project.version}'
+main: me.vitruvis.vmorte.VMorte
+api-version: '1.20'
+depend: ["DeluxeCombat"]
+
+commands:
+  vmorte:
+    description: Main command for vMorte
+    usage: /<command>

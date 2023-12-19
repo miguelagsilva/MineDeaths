@@ -1,0 +1,6 @@
+action-bar:
+  enable-pvp: "<red>ᴀᴛɪᴠᴀ ᴏ ᴘᴠᴘ ᴘᴀʀᴀ ʀᴇᴄʙᴇʀ ᴍᴀɪs ᴇxᴘ!"
+messages:
+  enable-pvp: "<br><red>⚠ Estás a receber -20% de EXP por teres o pvp desativado! Ativa o pvp com o comando /pvp ativar<br>"
+commands:
+  reload: "<green>Recarregaste o plugin com sucesso!"
